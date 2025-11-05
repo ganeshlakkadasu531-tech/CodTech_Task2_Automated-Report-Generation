@@ -43,11 +43,7 @@ It demonstrates the practical use of:
 
 ## Example Output Screenshot
 
-*(Replace this with your actual PDF preview)*
 
 ```markdown
-![Generated Report](report_sample.png)
-```
-
----
+![Generated Report]("output.png")
 
