@@ -9,9 +9,6 @@
 
 ## Project Overview
 
-This project was developed as part of my **CodTech Python Internship**.
-It focuses on **automating the process of data analysis and PDF report generation** using Python.
-
 The script reads data (for example, student marks) from a CSV file, performs calculations, and generates a well-formatted PDF report with summaries and tables automatically.
 
 It demonstrates the practical use of:
